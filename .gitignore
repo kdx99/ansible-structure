@@ -1,2 +1,3 @@
 # Own symlinks; destination can individually differ
+.secret
 roles/apache
